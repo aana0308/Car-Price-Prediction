@@ -16,11 +16,11 @@ The dataset used is the Car Price Prediciton dataset (https://www.kaggle.com/hel
 
 Car Price refers to the
 <br>
-**Mean Car price:**
+**Mean Car price:** 13276.710571
 <br>
-**Max Car price:**
+**Max Car price:** 45400
 <br>
-**Min Car price:**
+**Min Car price:** 5118
 
 # Model Used
 The model used is **Multiple Linear Regression**.
